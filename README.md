@@ -2,7 +2,7 @@
 
 **Telegram Bot Manager**
 
-> a Cli tool for managing your telegram projects
+> a Cli tool for managing your telegram projects <br>
 > easily build your project structure and start adding your handlers
 
 
