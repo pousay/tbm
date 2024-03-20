@@ -32,6 +32,15 @@ pip install tbm
 > selecting project types depends on your project
 > if you use telegram bot (token) choose the telegram bot option and if you use client bot (phone number) choose the Client bot option
 
+- example :
+<img src='./../assets/2.jpg' />
+
+> once you are done with build command, you shall have a directory 
+- example :
+<img src='./../assets/1.jpg' />
+
+> add your handlers in plugins root, customize your config.py file, Then run ```tbm run``` to run your telegram bot
+
 ### • contributions
 
 > any contributions are welcome
@@ -42,3 +51,5 @@ pip install tbm
 > [github](https://github.com/pousay/tbm)
 
 > [pypi](https://pypi.org/project/tbm/)
+
+
