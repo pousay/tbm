@@ -45,7 +45,7 @@ pip install tbm
 
 ### • contributions
 
-> any contributions are welcome
+> any contributions are welcome<br>
 > developed by [pourya](https://github.com/pousay)
 
 ### • documentation
