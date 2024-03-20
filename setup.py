@@ -1,11 +1,16 @@
 import setuptools
 from distutils.core import setup
 
+with open("README.md", "r") as f:
+    d = f.read()
+
+
 setup(
     name="tbm",
-    version="1",
+    version="1.1",
     description="telegram bot manager",
-    long_description="use this package to manage your telegram bot projects",
+    long_description=d,
+    long_description_content_type="text/markdown",
     author="https://github.com/pousay",
     author_email="pouryathesaymon@gmail.com",
     packages=["tbm"],
