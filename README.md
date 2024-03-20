@@ -38,4 +38,5 @@ pip install tbm
 
 ### • documentation
 
-> [github](https://github.com/pousay/tbm) > [pypi](https://pypi.org/project/tbm/)
+> [github](https://github.com/pousay/tbm)
+> [pypi](https://pypi.org/project/tbm/)
