@@ -7,7 +7,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="tbm",
-    version="1.1",
+    version="1.2",
     description="telegram bot manager",
     long_description=d,
     long_description_content_type="text/markdown",
