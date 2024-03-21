@@ -15,5 +15,5 @@ setup(
     author_email="pouryathesaymon@gmail.com",
     packages=["tbm"],
     entry_points={"console_scripts": ["tbm=tbm.main:main"]},
-    requires=["watchdog", "inquirer"],
+    install_requires=["watchdog", "inquirer"],
 )
