@@ -2,7 +2,7 @@
 
 **Telegram Bot Manager**
 
-> a Cli tool for managing your telegram projects
+> a Cli tool for managing your telegram projects <br>
 > easily build your project structure and start adding your handlers
 
 
@@ -45,7 +45,7 @@ pip install tbm
 
 ### • contributions
 
-> any contributions are welcome
+> any contributions are welcome<br>
 > developed by [pourya](https://github.com/pousay)
 
 ### • documentation
